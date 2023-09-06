@@ -2,6 +2,8 @@
 
 ## Description
 
+[Text Editor](https://morning-refuge-10692-76df8b5397e0.herokuapp.com/)
+
 The Text Editor app is a single page web application that can also be used as a Progressive Web Application (PWA) and installed as a desktop app. The application uses the idb npm package to store data using the IndexedDB API in the browser. It also makes use of service workers to cache files which enables offline functionality. Webpack plugins were also used to bundle assets, increasing overall performance of the app.
 
 ## Installation
